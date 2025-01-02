@@ -2,7 +2,6 @@ package com.lilyoung.springbootdeveloper.Repository.Board;
 
 import com.lilyoung.springbootdeveloper.Entity.Board;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.stereotype.Repository;
 
 @Repository
